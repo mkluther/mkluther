@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mkluther
 - 👀 I’m interested in coding and advenure sports
-- 🌱 I’m currently learning Solibri API
-- 💞️ I’m looking to collaborate on IFC js
+- 🌱 I’m currently learning BIM Stuff
+- 💞️ I’m looking to collaborate on BIM related stuff
 - 📫 How to reach me LinkedIn 
 
 <!---
